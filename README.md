@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - Working on: my dissertation, defending soon.
-- Learbing about: the theory behind linear regression with [this edX course](https://learning.edx.org/course/course-v1:HarvardX+PH125.7x+1T2021/home)
+- Learning about: the theory behind linear regression with [this edX course](https://learning.edx.org/course/course-v1:HarvardX+PH125.7x+1T2021/home)
 - Ask me about: entropy
 - Fun fact: cats have twice the neurons in their cerebral cortex as dogs
 
