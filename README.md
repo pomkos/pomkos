@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Working on: tying up loose ends for PhD
+- Working on: job search
 - Learning about: the theory behind linear regression with [this edX course](https://learning.edx.org/course/course-v1:HarvardX+PH125.7x+1T2021/home)
 - Ask me about: entropy
 - Fun fact: cats have twice the neurons in their cerebral cortex as dogs
