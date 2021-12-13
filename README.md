@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 - Working on: deepening my knowledge in data science
 - Learning about: the theory behind linear regression with [this edX course](https://learning.edx.org/course/course-v1:HarvardX+PH125.7x+1T2021/home)
