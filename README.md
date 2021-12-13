@@ -7,7 +7,7 @@
 
 # Table of Contents
 
-3. [Dissertation](https://github.com/pomkos/toc/#dissertation)
+1. [Dissertation](https://github.com/pomkos/toc/#dissertation)
 4. [Homserver](https://github.com/pomkos/toc/#homeserver-config)
 6. [Home Projects](https://github.com/pomkos/toc/#personal)
 7. [Pillar](https://github.com/pomkos/toc/#pillar)
