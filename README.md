@@ -7,7 +7,7 @@
 
 # Data Science Projects
 
-1. [Dissertation](https://github.com/pomkos/dissert)
+1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert)
 2. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow)
 3. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor)
 4. [Bootcamp Projects](https://github.com/pomkos/Finished-Projects)
