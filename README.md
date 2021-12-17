@@ -1,7 +1,8 @@
 # Hi there 👋
 
-- Working on: deepening my knowledge in data science
-- Learning about: the theory behind linear regression with [this edX course](https://learning.edx.org/course/course-v1:HarvardX+PH125.7x+1T2021/home)
+- Working on: breaking into the data science sector
+- Current pet project: examining protest types in the US 2019-2021, creating an animated map
+- Learning about: the digital nomadic life, and how to integrate working out into it
 - Ask me about: entropy
 - Fun fact: cats have twice the neurons in their cerebral cortex as dogs
 
