@@ -10,7 +10,7 @@
 
 - [Resume](https://resume.peti.work)
 - [CV](https://cv.peti.work)
-- [Dissertation](https://dissertation.peti.work)
+- [Dissertation](http://rave.ohiolink.edu/etdc/view?acc_num=kent1625846829132496)
 
 # Data Science Projects
 
