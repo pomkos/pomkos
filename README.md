@@ -6,7 +6,7 @@
 - Ask me about: entropy
 - Fun fact: cats have twice the neurons in their cerebral cortex as dogs
 
-# Notable links
+__Notable links__
 
 - [Resume](https://resume.peti.work)
 - [CV](https://cv.peti.work)
