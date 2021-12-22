@@ -27,7 +27,7 @@ __Notable links__
 
 ## Other
 
-3. [Bootcamp Projects](https://github.com/pomkos/Finished-Projects)
+1. [Bootcamp Projects](https://github.com/pomkos/Finished-Projects)
 
 # Software Engineering Projects
 
