@@ -27,7 +27,7 @@ __Covid Dash__
 1. [Covid Dashboard](https://github.com/pomkos/covid_dash)
 2. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash)
 
-## Demonstration of Techniques
+## Technique Demonstration
 
 __All in One__
 
