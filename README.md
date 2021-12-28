@@ -14,20 +14,23 @@ __Notable links__
 
 # Data Science Projects
 
-## Parkinson's Disease
+## Really, really cool stuff
+
+__Parkinson's Disease__
 
 1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert)
 2. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow)
 3. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor)
 
-## Covid Dash
+__Covid Dash__
 
 1. [Covid Dashboard](https://github.com/pomkos/covid_dash)
 2. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash)
 
-## Other
+## Demonstration of Techniques
 
-1. [Bootcamp Projects](https://github.com/pomkos/Finished-Projects)
+__EDA__
+1. [What is the most popular ML/DL topic on StackExchange?](https://github.com/pomkos/Finished-Projects/blob/master/05.%20StackExchange%20Tags.ipynb)
 
 # Software Engineering Projects
 
