@@ -31,7 +31,7 @@ __Covid Dash__
 
 __All in One__
 
-1. [A classic: predict survivors from the Titanic dataset](https://github.com/pomkos/Finished-Projects/blob/master/14.%20ML%20Workflow.ipynb) `#GridSearchCV` `KNN` `LogisticRegression` `RandomForestClassifier`
+1. [A classic: predict survivors from the Titanic dataset](https://github.com/pomkos/Finished-Projects/blob/master/14.%20ML%20Workflow.ipynb) `#GridSearchCV`, `#KNN`, `#LogisticRegression`, `#RandomForestClassifier`
 
 __EDA__
 
@@ -46,9 +46,9 @@ __Machine Learning__
 1. [Spam or Ham classifier](https://github.com/pomkos/Finished-Projects/blob/master/07.%20Spam%20Filter.ipynb) `#probability`
 2. [Are there any patterns in Jeapordy questions?](https://github.com/pomkos/Finished-Projects/blob/master/08.%20Winning%20Jeopardy.ipynb) `#chi_square`
 3. [An algorithm to predict car prices on the market](https://github.com/pomkos/Finished-Projects/blob/master/09.%20Predicting%20Car%20Prices.ipynb) `#KNN`
-4. [Predict housing prices](https://github.com/pomkos/Finished-Projects/blob/master/10.%20Predicting%20House%20Sale%20Prices.ipynb) `#linear_regression` `#KFold`
-5. [Predict the number of bikes rented in a shared-bike program](https://github.com/pomkos/Finished-Projects/blob/master/12.%20Predicting%20Bike%20Rentals.ipynb) `#linear_regression` `decision_tree` `random_forest`
-6. [Build a model to recognize handwritten numbers](https://github.com/pomkos/Finished-Projects/blob/master/13.%20Building%20A%20Handwritten%20Digits%20Classifier.ipynb) `#KNN` `neural_network` 
+4. [Predict housing prices](https://github.com/pomkos/Finished-Projects/blob/master/10.%20Predicting%20House%20Sale%20Prices.ipynb) `#linear_regression`, `#KFold`
+5. [Predict the number of bikes rented in a shared-bike program](https://github.com/pomkos/Finished-Projects/blob/master/12.%20Predicting%20Bike%20Rentals.ipynb) `#linear_regression`, `#decision_tree`, `#random_forest`
+6. [Build a model to recognize handwritten numbers](https://github.com/pomkos/Finished-Projects/blob/master/13.%20Building%20A%20Handwritten%20Digits%20Classifier.ipynb) `#KNN`, `#neural_network` 
 
 # Software Engineering Projects
 
