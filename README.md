@@ -30,7 +30,17 @@ __Covid Dash__
 ## Demonstration of Techniques
 
 __EDA__
-1. [What is the most popular ML/DL topic on StackExchange?](https://github.com/pomkos/Finished-Projects/blob/master/05.%20StackExchange%20Tags.ipynb)
+
+1. [How do NYC high schools perform?](https://github.com/pomkos/Finished-Projects/blob/master/01.%20NYC%20High%20Schools.ipynb) 
+2. [What is the most popular ML/DL topic on StackExchange?](https://github.com/pomkos/Finished-Projects/blob/master/05.%20StackExchange%20Tags.ipynb)
+3. [Which Star Wars episode is the most popular?](https://github.com/pomkos/Finished-Projects/blob/master/02.%20Star%20Wars%20Survey.ipynb)
+4. [Basic EDA of CIA Factbook using SQL](https://github.com/pomkos/Finished-Projects/blob/master/03.%20CIA%20Factbook.ipynb) `#SQL`
+5. [What populations should a distance learning company focus on?](https://github.com/pomkos/Finished-Projects/blob/master/04.%20Elearning%20Markets.ipynb)
+
+__Machine Learning__
+
+1. [Spam or Ham classifier](https://github.com/pomkos/Finished-Projects/blob/master/07.%20Spam%20Filter.ipynb) `#probability`
+2. [Are there any patterns in Jeapordy questions](https://github.com/pomkos/Finished-Projects/blob/master/08.%20Winning%20Jeopardy.ipynb) `#chi_square`
 
 # Software Engineering Projects
 
