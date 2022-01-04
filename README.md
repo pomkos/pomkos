@@ -1,9 +1,9 @@
 # Hi there 👋
 
 - Working on: breaking into the data science sector
-- Current pet project: examining protest types in the US 2019-2021, creating an animated map
+- Current pet project: creating interactive Streamlit sites for past ML projects
 - Learning about: the digital nomadic life, and how to integrate working out into it
-- Ask me about: entropy
+- Ask me about: entropy, Parkinson's, exercise
 - Fun fact: cats have twice the neurons in their cerebral cortex as dogs
 
 __Notable links__
@@ -49,6 +49,7 @@ __Machine Learning__
 4. [Predict housing prices](https://github.com/pomkos/Finished-Projects/blob/master/10.%20Predicting%20House%20Sale%20Prices.ipynb) `#LinearRegression`, `#KFold`
 5. [Predict the number of bikes rented in a shared-bike program](https://github.com/pomkos/Finished-Projects/blob/master/12.%20Predicting%20Bike%20Rentals.ipynb) `#LinearRegression`, `#DecisionTree`, `#RandomForest`
 6. [Build a model to recognize handwritten numbers](https://github.com/pomkos/Finished-Projects/blob/master/13.%20Building%20A%20Handwritten%20Digits%20Classifier.ipynb) `#KNN`, `#NeuralNetwork` 
+7. [Fun little model, predicting your marathon placement in the Akron Marathon](https://marathon.peti.work) ([repo](https://github.com/pomkos/marathon-fiesta)) `#RandomForest`
 
 # Software Engineering Projects
 
