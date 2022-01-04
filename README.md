@@ -18,9 +18,9 @@ __Notable links__
 
 __Parkinson's Disease__
 
-1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert)
-2. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow)
-3. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor)
+1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert) `#MultiModal Regression`, `#LinearRegression`, `#R`, `#Python`
+2. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow) `#ApEn`, `#SamEn`, `#TimeSeries`
+3. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor) `#ApEn`, `#SamEn`, `#TimeSeries`
 
 __Covid Dash__
 
@@ -43,8 +43,8 @@ __EDA__
 
 __Machine Learning__
 
-1. [Spam or Ham classifier](https://github.com/pomkos/Finished-Projects/blob/master/07.%20Spam%20Filter.ipynb) `#probability`
-2. [Are there any patterns in Jeapordy questions?](https://github.com/pomkos/Finished-Projects/blob/master/08.%20Winning%20Jeopardy.ipynb) `#chi_square`
+1. [Spam or Ham classifier](https://github.com/pomkos/Finished-Projects/blob/master/07.%20Spam%20Filter.ipynb) `#Probability`
+2. [Are there any patterns in Jeapordy questions?](https://github.com/pomkos/Finished-Projects/blob/master/08.%20Winning%20Jeopardy.ipynb) `#ChiSquare`
 3. [An algorithm to predict car prices on the market](https://github.com/pomkos/Finished-Projects/blob/master/09.%20Predicting%20Car%20Prices.ipynb) `#KNN`
 4. [Predict housing prices](https://github.com/pomkos/Finished-Projects/blob/master/10.%20Predicting%20House%20Sale%20Prices.ipynb) `#LinearRegression`, `#KFold`
 5. [Predict the number of bikes rented in a shared-bike program](https://github.com/pomkos/Finished-Projects/blob/master/12.%20Predicting%20Bike%20Rentals.ipynb) `#LinearRegression`, `#DecisionTree`, `#RandomForest`
@@ -54,9 +54,9 @@ __Machine Learning__
 # Software Engineering Projects
 
 ## Used in Prod
-1. [Dynamic Bike Analyzer](https://github.com/pomkos/dynamic_biking) and [helper functions](https://github.com/pomkos/dynbike_helper_functions)
-2. [Dynamic Bike Data Munger](https://github.com/pomkos/biking)
-3. [Noraxon Data Munger](https://github.com/pomkos/dancing)
+1. [Dynamic Bike Analyzer](https://github.com/pomkos/dynamic_biking) and [helper functions](https://github.com/pomkos/dynbike_helper_functions) `#Bash`, `#WeGUI`
+2. [Dynamic Bike Data Munger](https://github.com/pomkos/biking) `#PySimpleGUI`
+3. [Noraxon Data Munger](https://github.com/pomkos/dancing) `#R Studio`
 
 ## Used by Friends
 1. [Payme Calculator](https://github.com/pomkos/payme)
