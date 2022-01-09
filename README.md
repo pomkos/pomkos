@@ -25,7 +25,7 @@ __Parkinson's Disease__
 __Covid Dash__
 
 1. [Covid Dashboard](https://github.com/pomkos/covid_dash) `#StreamlitDash`
-2. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `PlotlyDash`
+2. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`
 
 ## Technique Demonstration
 
