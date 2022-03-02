@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - Working on: breaking into the data science sector
-- Current pet project: creating interactive Streamlit sites for past ML projects
+- Current pet project: predicting Airbnb prices in NYC
 - Learning about: the digital nomadic life, and how to integrate working out into it
 - Ask me about: entropy, Parkinson's, exercise
 - Fun fact: cats have twice the neurons in their cerebral cortex as dogs
