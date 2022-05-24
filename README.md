@@ -36,11 +36,11 @@ __All in One__
 
 __EDA__
 
-1. [How do NYC high schools perform?](https://github.com/pomkos/Finished-Projects/blob/master/01.%20NYC%20High%20Schools.ipynb) 
-2. [What is the most popular ML/DL topic on StackExchange?](https://github.com/pomkos/Finished-Projects/blob/master/05.%20StackExchange%20Tags.ipynb)
-3. [Which Star Wars episode is the most popular?](https://github.com/pomkos/Finished-Projects/blob/master/02.%20Star%20Wars%20Survey.ipynb)
+1. [How do NYC high schools perform?](https://github.com/pomkos/Finished-Projects/blob/master/01.%20NYC%20High%20Schools.ipynb) `#pandas`, `#numpy`, `#regex`, `#matplotlib`, `#seaborn`
+2. [What is the most popular ML/DL topic on StackExchange?](https://github.com/pomkos/Finished-Projects/blob/master/05.%20StackExchange%20Tags.ipynb) `#API`, `#matplotlib`, `#seaborn`, `#correlations`
+3. [Which Star Wars episode is the most popular?](https://github.com/pomkos/Finished-Projects/blob/master/02.%20Star%20Wars%20Survey.ipynb) `#matplotlib`, `#seaborn`, `#pandas`
 4. [Basic EDA of CIA Factbook using SQL](https://github.com/pomkos/Finished-Projects/blob/master/03.%20CIA%20Factbook.ipynb) `#SQL`
-5. [What populations should a distance learning company focus on?](https://github.com/pomkos/Finished-Projects/blob/master/04.%20Elearning%20Markets.ipynb)
+5. [What populations should a distance learning company focus on?](https://github.com/pomkos/Finished-Projects/blob/master/04.%20Elearning%20Markets.ipynb) `#pandas`, `#numpy`, `#matplotlib`, `#seaborn`
 
 __Machine Learning__
 
@@ -60,7 +60,7 @@ __Machine Learning__
 3. [Noraxon Data Munger](https://github.com/pomkos/dancing) `#R Studio`
 
 ## Used by Friends
-1. [Payme Calculator](https://github.com/pomkos/payme) `#Python`, `#Streamlit`, `#Bash`
+1. [Payme Calculator](https://github.com/pomkos/payme) `#Python`, `#Streamlit`, `#Bash`, `#regex`
 2. [WhereIs](https://github.com/pomkos/whereis) `#Python`, `#Streamlit`
 3. [Streamlit Starter](https://github.com/pomkos/streamlit_starter) `#Linux`, `#Bash`
 4. [Protein per Cost Calculator](https://github.com/pomkos/brotein) `#Python`, `#Streamlit`, `#API`
