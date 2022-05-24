@@ -18,9 +18,10 @@ __Notable links__
 
 __Parkinson's Disease__
 
-1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert) `#MultiModal Regression`, `#LinearRegression`, `#R`, `#Python`
-2. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow) `#ApEn`, `#SamEn`, `#TimeSeries`
-3. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor) `#ApEn`, `#SamEn`, `#TimeSeries`
+1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert) `#MultiModal Regression`, `#LinearRegression`, `#R`, `#Python`, `#SQLite`
+2. [Research into demographic variables' effect on Parkinsonian symptom presentation](https://github.com/pomkos/dynamic_cycling_paper_2022) `#R`, `#Python`, `SQLite`, `#SegmentedRegression`, `#automation`, `#lubridate`, `#pandas`, `#ggplot2`
+3. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
+4. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
 
 __Covid Dash__
 
@@ -54,17 +55,17 @@ __Machine Learning__
 # Software Engineering Projects
 
 ## Used in Prod
-1. [Dynamic Bike Analyzer](https://github.com/pomkos/dynamic_biking) and [helper functions](https://github.com/pomkos/dynbike_helper_functions) `#Bash`, `#WeGUI`
+1. [Dynamic Bike Analyzer](https://github.com/pomkos/dynamic_biking) and [helper functions](https://github.com/pomkos/dynbike_helper_functions) `#Bash`, `#Streamlit`
 2. [Dynamic Bike Data Munger](https://github.com/pomkos/biking) `#PySimpleGUI`
 3. [Noraxon Data Munger](https://github.com/pomkos/dancing) `#R Studio`
 
 ## Used by Friends
-1. [Payme Calculator](https://github.com/pomkos/payme)
-2. [WhereIs](https://github.com/pomkos/whereis)
-3. [Streamlit Starter](https://github.com/pomkos/streamlit_starter)
-4. [Protein per Cost Calculator](https://github.com/pomkos/brotein)
+1. [Payme Calculator](https://github.com/pomkos/payme) `#Python`, `#Streamlit`, `#Bash`
+2. [WhereIs](https://github.com/pomkos/whereis) `#Python`, `#Streamlit`
+3. [Streamlit Starter](https://github.com/pomkos/streamlit_starter) `#Linux`, `#Bash`
+4. [Protein per Cost Calculator](https://github.com/pomkos/brotein) `#Python`, `#Streamlit`, `#API`
 
 ## Personal Projects
-8. [Homeserver Setup](https://github.com/pomkos/homeserver)
+8. [Homeserver Setup](https://github.com/pomkos/homeserver) `#Linux`, `#Ubuntu`
 9. [Hassio Setup](https://github.com/pomkos/hassio_config)
-11. [Cookpad Scraper](https://github.com/pomkos/cookpad_scrape)
+11. [Cookpad Scraper](https://github.com/pomkos/cookpad_scrape) `#Python`, `#BeautifulSoup`, `#Selenium`
