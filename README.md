@@ -19,7 +19,7 @@ __Notable links__
 __Parkinson's Disease__
 
 1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert) `#MultiModal Regression`, `#LinearRegression`, `#R`, `#Python`, `#SQLite`
-2. [Research into demographic variables' effect on Parkinsonian symptom presentation](https://github.com/pomkos/dynamic_cycling_paper_2022) `#R`, `#Python`, `SQLite`, `#SegmentedRegression`, `#automation`, `#lubridate`, `#pandas`, `#ggplot2`
+2. [Research into demographic variables' effect on Parkinsonian symptom presentation](https://github.com/pomkos/dynamic_cycling_paper_2022) `#ApEn`, `#SamEn`, `#R`, `#Python`, `SQLite`, `#SegmentedRegression`, `#automation`, `#lubridate`, `#pandas`, `#ggplot2`
 3. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
 4. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
 
