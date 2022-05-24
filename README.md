@@ -2,7 +2,7 @@
 
 - Working on: breaking into the data science sector
 - Current pet project: predicting Airbnb prices in NYC
-- Learning about: the digital nomadic life, and how to integrate working out into it
+- Learning about: the Spanish language with Duolingo
 - Ask me about: entropy, Parkinson's, exercise
 - Fun fact: cats have twice the neurons in their cerebral cortex as dogs
 
