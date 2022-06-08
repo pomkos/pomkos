@@ -44,10 +44,10 @@ __EDA__
 
 __Data Visualization__
 
-1. [Powerpoint of plots created for Dissertation](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=kent1625846829132496) #matplotlib, #ggplot
-2. [Figures created for dance paper](https://www.mdpi.com/1660-4601/19/2/655) #ggplot, #cowplot, #gridextra
-3. [Finished ML projects, including plots](https://github.com/pomkos/Finished-Projects) #matplotlib, #seaborn, #plotly
-4. [Covid dashboard](https://covid.peti.work) #plotly, #seaborn
+1. [Powerpoint of plots created for Dissertation](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=kent1625846829132496) `#matplotlib`, `#ggplot`
+2. [Figures created for dance paper](https://www.mdpi.com/1660-4601/19/2/655) `#ggplot`, `#cowplot`, `#gridextra`
+3. [Finished ML projects, including plots](https://github.com/pomkos/Finished-Projects) `#matplotlib`, `#seaborn`, `#plotly`
+4. [Covid dashboard](https://covid.peti.work) `#plotly`, `#seaborn`
 
 __Machine Learning__
 
