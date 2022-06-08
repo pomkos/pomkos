@@ -48,6 +48,7 @@ __Data Visualization__
 2. [Figures created for dance paper](https://www.mdpi.com/1660-4601/19/2/655) `#ggplot`, `#cowplot`, `#gridextra`
 3. [Finished ML projects, including plots](https://github.com/pomkos/Finished-Projects) `#matplotlib`, `#seaborn`, `#plotly`
 4. [Covid dashboard](https://covid.peti.work) `#plotly`, `#seaborn`
+5. [Visualization and prediction of marathon placement](https://share.streamlit.io/pomkos/marathon-fiesta/main/marathon_st.py) `#seaborn`, `#plotly`, `#geopandas`, `#chloropleth`
 
 __Machine Learning__
 
