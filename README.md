@@ -47,7 +47,7 @@ __Data Visualization__
 
 __Dashboard__
 
-1. [Covid Dashboard](https://github.com/pomkos/covid_dash) ([demo](https://covid.peti.work)) `#StreamlitDash`
+1. [Covid Dashboard](https://github.com/pomkos/covid_dash) 🎬 ([demo](https://covid.peti.work)) `#StreamlitDash`
 2. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`
 
 __Machine Learning__
@@ -58,7 +58,7 @@ __Machine Learning__
 4. [Predict housing prices](https://github.com/pomkos/Finished-Projects/blob/master/10.%20Predicting%20House%20Sale%20Prices.ipynb) `#LinearRegression`, `#KFold`
 5. [Predict the number of bikes rented in a shared-bike program](https://github.com/pomkos/Finished-Projects/blob/master/12.%20Predicting%20Bike%20Rentals.ipynb) `#LinearRegression`, `#DecisionTree`, `#RandomForest`
 6. [Build a model to recognize handwritten numbers](https://github.com/pomkos/Finished-Projects/blob/master/13.%20Building%20A%20Handwritten%20Digits%20Classifier.ipynb) `#KNN`, `#NeuralNetwork` 
-7. [Fun little model, predicting your marathon placement in the Akron Marathon](https://github.com/pomkos/marathon-fiesta) ([demo](https://marathon.peti.work)) `#RandomForest`
+7. [Fun little model, predicting your marathon placement in the Akron Marathon](https://github.com/pomkos/marathon-fiesta) 🎬 ([demo](https://marathon.peti.work)) `#RandomForest`
 
 # Software Engineering Projects
 
@@ -68,7 +68,7 @@ __Machine Learning__
 3. [Noraxon Data Munger](https://github.com/pomkos/dancing) `#R Studio`
 
 ## Used by Friends
-1. [Payme Calculator](https://github.com/pomkos/payme) ([demo](https://payme.peti.work)) `#Python`, `#Streamlit`, `#Bash`, `#regex`
+1. [Payme Calculator](https://github.com/pomkos/payme) 🎬 ([demo](https://payme.peti.work)) `#Python`, `#Streamlit`, `#Bash`, `#regex`
 2. [WhereIs](https://github.com/pomkos/whereis) `#Python`, `#Streamlit`
 3. [Streamlit Starter](https://github.com/pomkos/streamlit_starter) `#Linux`, `#Bash`
 4. [Protein per Cost Calculator](https://github.com/pomkos/brotein) `#Python`, `#Streamlit`, `#API`
