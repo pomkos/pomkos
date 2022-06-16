@@ -19,7 +19,7 @@ __Notable links__
 __Parkinson's Disease__
 
 1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert) `#MultiModal Regression`, `#LinearRegression`, `#R`, `#Python`, `#SQLite`
-2. [Research into demographic variables' effect on Parkinsonian symptom presentation](https://github.com/pomkos/dynamic_cycling_paper_2022) `#ApEn`, `#SamEn`, `#R`, `#Python`, `SQLite`, `#SegmentedRegression`, `#automation`, `#lubridate`, `#pandas`, `#ggplot2`
+2. [Research into demographic variables' effect on Parkinsonian symptom presentation](https://github.com/pomkos/dynamic_cycling_paper_2022) `#ApEn`, `#SamEn`, `#R`, `#Python`, `SQLite`, `#SegmentedRegression`, `#Automation`, `#Lubridate`, `#Pandas`, `#Ggplot2`
 3. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
 4. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
 
@@ -32,18 +32,18 @@ __All in One__
 
 __EDA__
 
-1. [How do NYC high schools perform?](https://github.com/pomkos/Finished-Projects/blob/master/01.%20NYC%20High%20Schools.ipynb) `#pandas`, `#numpy`, `#regex`, `#matplotlib`, `#seaborn`
-2. [What is the most popular ML/DL topic on StackExchange?](https://github.com/pomkos/Finished-Projects/blob/master/05.%20StackExchange%20Tags.ipynb) `#API`, `#matplotlib`, `#seaborn`, `#correlations`
-3. [Which Star Wars episode is the most popular?](https://github.com/pomkos/Finished-Projects/blob/master/02.%20Star%20Wars%20Survey.ipynb) `#matplotlib`, `#seaborn`, `#pandas`
+1. [How do NYC high schools perform?](https://github.com/pomkos/Finished-Projects/blob/master/01.%20NYC%20High%20Schools.ipynb) `#Pandas`, `#Numpy`, `#Regex`, `#Matplotlib`, `#Seaborn`
+2. [What is the most popular ML/DL topic on StackExchange?](https://github.com/pomkos/Finished-Projects/blob/master/05.%20StackExchange%20Tags.ipynb) `#API`, `#Matplotlib`, `#Seaborn`, `#Correlations`
+3. [Which Star Wars episode is the most popular?](https://github.com/pomkos/Finished-Projects/blob/master/02.%20Star%20Wars%20Survey.ipynb) `#Matplotlib`, `#Seaborn`, `#Pandas`
 4. [Basic EDA of CIA Factbook using SQL](https://github.com/pomkos/Finished-Projects/blob/master/03.%20CIA%20Factbook.ipynb) `#SQL`
-5. [What populations should a distance learning company focus on?](https://github.com/pomkos/Finished-Projects/blob/master/04.%20Elearning%20Markets.ipynb) `#pandas`, `#numpy`, `#matplotlib`, `#seaborn`
+5. [What populations should a distance learning company focus on?](https://github.com/pomkos/Finished-Projects/blob/master/04.%20Elearning%20Markets.ipynb) `#Pandas`, `#Numpy`, `#Matplotlib`, `#Seaborn`
 
 __Data Visualization__
 
-1. [Figures created for dance paper](https://www.mdpi.com/1660-4601/19/2/655) `#ggplot`, `#cowplot`, `#gridextra`
-2. [Finished ML projects, including plots](https://github.com/pomkos/Finished-Projects) `#matplotlib`, `#seaborn`, `#plotly`
-3. [Powerpoint of plots created for Dissertation](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=kent1625846829132496) `#matplotlib`, `#ggplot`
-4. [Visualization and prediction of marathon placement](https://share.streamlit.io/pomkos/marathon-fiesta/main/marathon_st.py) `#seaborn`, `#plotly`, `#geopandas`, `#chloropleth`
+1. [Figures created for dance paper](https://www.mdpi.com/1660-4601/19/2/655) `#Ggplot`, `#Cowplot`, `#GridExtra`
+2. [Finished ML projects, including plots](https://github.com/pomkos/Finished-Projects) `#Matplotlib`, `#Seaborn`, `#Pplotly`
+3. [Powerpoint of plots created for Dissertation](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=kent1625846829132496) `#Matplotlib`, `#Ggplot`
+4. [Visualization and prediction of marathon placement](https://share.streamlit.io/pomkos/marathon-fiesta/main/marathon_st.py) `#Seaborn`, `#Plotly`, `#GeoPandas`, `#Chloropeth`
 
 __Dashboard__
 
@@ -69,7 +69,7 @@ __Machine Learning__
 3. [Noraxon Data Munger](https://github.com/pomkos/dancing) `#R Studio`
 
 ## Used by Friends
-1. [Payme Calculator](https://github.com/pomkos/payme) 🎬 ([demo](https://payme.peti.work)) `#Python`, `#Streamlit`, `#Bash`, `#regex`
+1. [Payme Calculator](https://github.com/pomkos/payme) 🎬 ([demo](https://payme.peti.work)) `#Python`, `#Streamlit`, `#Bash`, `#Regex`
 2. [WhereIs](https://github.com/pomkos/whereis) `#Python`, `#Streamlit`
 3. [Streamlit Starter](https://github.com/pomkos/streamlit_starter) `#Linux`, `#Bash`
 4. [Protein per Cost Calculator](https://github.com/pomkos/brotein) `#Python`, `#Streamlit`, `#API`
