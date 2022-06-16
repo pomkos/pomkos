@@ -23,10 +23,6 @@ __Parkinson's Disease__
 3. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
 4. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
 
-__Covid Dash__
-
-1. [Covid Dashboard](https://github.com/pomkos/covid_dash) `#StreamlitDash`
-2. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`
 
 ## Technique Demonstration
 
@@ -47,8 +43,12 @@ __Data Visualization__
 1. [Powerpoint of plots created for Dissertation](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=kent1625846829132496) `#matplotlib`, `#ggplot`
 2. [Figures created for dance paper](https://www.mdpi.com/1660-4601/19/2/655) `#ggplot`, `#cowplot`, `#gridextra`
 3. [Finished ML projects, including plots](https://github.com/pomkos/Finished-Projects) `#matplotlib`, `#seaborn`, `#plotly`
-4. [Covid dashboard](https://covid.peti.work) `#plotly`, `#seaborn`
-5. [Visualization and prediction of marathon placement](https://share.streamlit.io/pomkos/marathon-fiesta/main/marathon_st.py) `#seaborn`, `#plotly`, `#geopandas`, `#chloropleth`
+4. [Visualization and prediction of marathon placement](https://share.streamlit.io/pomkos/marathon-fiesta/main/marathon_st.py) `#seaborn`, `#plotly`, `#geopandas`, `#chloropleth`
+
+__Dashboard__
+
+1. [Covid Dashboard](https://github.com/pomkos/covid_dash) ([demo](https://covid.peti.work)) `#StreamlitDash`
+2. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`
 
 __Machine Learning__
 
