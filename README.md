@@ -40,15 +40,16 @@ __EDA__
 
 __Data Visualization__
 
-1. [Powerpoint of plots created for Dissertation](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=kent1625846829132496) `#matplotlib`, `#ggplot`
-2. [Figures created for dance paper](https://www.mdpi.com/1660-4601/19/2/655) `#ggplot`, `#cowplot`, `#gridextra`
-3. [Finished ML projects, including plots](https://github.com/pomkos/Finished-Projects) `#matplotlib`, `#seaborn`, `#plotly`
+1. [Figures created for dance paper](https://www.mdpi.com/1660-4601/19/2/655) `#ggplot`, `#cowplot`, `#gridextra`
+2. [Finished ML projects, including plots](https://github.com/pomkos/Finished-Projects) `#matplotlib`, `#seaborn`, `#plotly`
+3. [Powerpoint of plots created for Dissertation](https://etd.ohiolink.edu/apexprod/rws_olink/r/1501/10?clear=10&p10_accession_num=kent1625846829132496) `#matplotlib`, `#ggplot`
 4. [Visualization and prediction of marathon placement](https://share.streamlit.io/pomkos/marathon-fiesta/main/marathon_st.py) `#seaborn`, `#plotly`, `#geopandas`, `#chloropleth`
 
 __Dashboard__
 
-1. [Covid Dashboard](https://github.com/pomkos/covid_dash) 🎬 ([demo](https://covid.peti.work)) `#StreamlitDash`
-2. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`
+1. [Airbnb Dash](https://public.tableau.com/app/profile/peter8115/viz/AirBnBPrices2019/Dashboard1) 🎬 ([demo](https://public.tableau.com/app/profile/peter8115/viz/AirBnBPrices2019/Dashboard1)) `#Tableau`
+2. [Covid Dashboard](https://github.com/pomkos/covid_dash) 🎬 ([demo](https://covid.peti.work)) `#Streamlit`
+3. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`
 
 __Machine Learning__
 
