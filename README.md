@@ -58,7 +58,7 @@ __Machine Learning__
 4. [Predict housing prices](https://github.com/pomkos/Finished-Projects/blob/master/10.%20Predicting%20House%20Sale%20Prices.ipynb) `#LinearRegression`, `#KFold`
 5. [Predict the number of bikes rented in a shared-bike program](https://github.com/pomkos/Finished-Projects/blob/master/12.%20Predicting%20Bike%20Rentals.ipynb) `#LinearRegression`, `#DecisionTree`, `#RandomForest`
 6. [Build a model to recognize handwritten numbers](https://github.com/pomkos/Finished-Projects/blob/master/13.%20Building%20A%20Handwritten%20Digits%20Classifier.ipynb) `#KNN`, `#NeuralNetwork` 
-7. [Fun little model, predicting your marathon placement in the Akron Marathon](https://marathon.peti.work) ([repo](https://github.com/pomkos/marathon-fiesta)) `#RandomForest`
+7. [Fun little model, predicting your marathon placement in the Akron Marathon](https://github.com/pomkos/marathon-fiesta) ([demo](https://marathon.peti.work)) `#RandomForest`
 
 # Software Engineering Projects
 
