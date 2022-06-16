@@ -68,7 +68,7 @@ __Machine Learning__
 3. [Noraxon Data Munger](https://github.com/pomkos/dancing) `#R Studio`
 
 ## Used by Friends
-1. [Payme Calculator](https://github.com/pomkos/payme) `#Python`, `#Streamlit`, `#Bash`, `#regex`
+1. [Payme Calculator](https://github.com/pomkos/payme) ([demo](https://payme.peti.work)) `#Python`, `#Streamlit`, `#Bash`, `#regex`
 2. [WhereIs](https://github.com/pomkos/whereis) `#Python`, `#Streamlit`
 3. [Streamlit Starter](https://github.com/pomkos/streamlit_starter) `#Linux`, `#Bash`
 4. [Protein per Cost Calculator](https://github.com/pomkos/brotein) `#Python`, `#Streamlit`, `#API`
