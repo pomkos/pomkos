@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - Working on: breaking into the data science sector
-- Current pet project: analyzing Columbus, OH traffic stops
+- Current pet project: analyzing netflix dataset
 - Learning about: the Spanish language with Duolingo
 - Ask me about: entropy, Parkinson's, exercise
 - Fun fact: cats have twice the neurons in their cerebral cortex as dogs
