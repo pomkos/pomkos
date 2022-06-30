@@ -18,9 +18,9 @@ __Notable links__
 
 __Parkinson's Disease__
 
-1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert) `#MultiModal Regression`, `#LinearRegression`, `#R`, `#Python`, `#SQLite`
-2. [Research into demographic variables' effect on Parkinsonian symptom presentation](https://github.com/pomkos/dynamic_cycling_paper_2022) `#ApEn`, `#SamEn`, `#R`, `#Python`, `SQLite`, `#SegmentedRegression`, `#Automation`, `#Lubridate`, `#Pandas`, `#Ggplot2`
-3. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
+1. [Dissertation: statistical models to investigate Parkinsonian symptom's response to a custom built dynamic bike](https://github.com/pomkos/dissert) 🎬 ([paper](http://rave.ohiolink.edu/etdc/view?acc_num=kent1625846829132496)) `#MultiModal Regression`, `#LinearRegression`, `#R`, `#Python`, `#SQLite`
+2. [Research into demographic variables' effect on Parkinsonian symptom presentation](https://github.com/pomkos/dynamic_cycling_paper_2022)  🎬 ([paper](https://www.frontiersin.org/articles/10.3389/fresc.2022.858401)) `#ApEn`, `#SamEn`, `#R`, `#Python`, `SQLite`, `#SegmentedRegression`, `#Automation`, `#Lubridate`, `#Pandas`, `#Ggplot2`
+3. [Research into dance and Parkinson's Disease](https://github.com/pomkos/dance_flow) 🎬 ([paper](https://doi.org/10.3390/ijerph19020655)) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
 4. [Entropy of Parkinsonian Tremors](https://github.com/pomkos/entropy_tremor) `#ApEn`, `#SamEn`, `#TimeSeries`, `#SQLite`
 
 
