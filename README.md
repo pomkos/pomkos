@@ -4,7 +4,7 @@
 - Current pet project: analyzing and predicting COVID transmission in different countries, using 1 million research papers
 - Learning about: the Spanish language with Duolingo
 - Ask me about: entropy, Parkinson's, exercise
-- Fun fact: cats have twice the neurons in their cerebral cortex as dogs
+- Fun fact:  Pizza made and eaten in Italy might protect against illness and death Source: [Silvano Gallus, 2019 IG Nobel Prize winner in Medicine](https://improbable.com/ig/winners/#ig2019)
 
 __Notable links__
 
@@ -49,7 +49,7 @@ __Dashboard__
 
 1. [Airbnb Dash](https://public.tableau.com/app/profile/peter8115/viz/AirBnBPrices2019/Dashboard1) 🎬 ([demo](https://public.tableau.com/app/profile/peter8115/viz/AirBnBPrices2019/Dashboard1)) `#Tableau`
 2. [Covid Dashboard](https://github.com/pomkos/covid_dash) 🎬 ([demo](https://covid.peti.work)) `#Streamlit`
-3. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`
+3. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`, , `#Docker`
 
 __Machine Learning__
 
@@ -75,6 +75,6 @@ __Machine Learning__
 4. [Protein per Cost Calculator](https://github.com/pomkos/brotein) `#Python`, `#Streamlit`, `#API`
 
 ## Personal Projects
-8. [Homeserver Setup](https://github.com/pomkos/homeserver) `#Linux`, `#Ubuntu`
+8. [Homeserver Setup](https://github.com/pomkos/homeserver) `#Linux`, `#Ubuntu`, `#Docker`
 9. [Hassio Setup](https://github.com/pomkos/hassio_config)
 11. [Cookpad Scraper](https://github.com/pomkos/cookpad_scrape) `#Python`, `#BeautifulSoup`, `#Selenium`
