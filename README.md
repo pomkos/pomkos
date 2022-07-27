@@ -49,7 +49,7 @@ __Dashboard__
 
 1. [Airbnb Dash](https://public.tableau.com/app/profile/peter8115/viz/AirBnBPrices2019/Dashboard1) 🎬 ([demo](https://public.tableau.com/app/profile/peter8115/viz/AirBnBPrices2019/Dashboard1)) `#Tableau`
 2. [Covid Dashboard](https://github.com/pomkos/covid_dash) 🎬 ([demo](https://covid.peti.work)) `#Streamlit`
-3. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`, , `#Docker`
+3. [Covid Plotly Dash](https://github.com/pomkos/covid_w_plotlydash) `#PlotlyDash`, `#Docker`
 
 __Machine Learning__
 
