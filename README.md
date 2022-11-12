@@ -1,7 +1,5 @@
 # Hi there 👋
 
-- Working on: breaking into the data science sector
-- Current pet project: analyzing and predicting COVID transmission in different countries, using 1 million research papers
 - Learning about: the Spanish language with Duolingo
 - Ask me about: entropy, Parkinson's, exercise
 - Fun fact:  Pizza made and eaten in Italy might protect against illness and death. ([Silvano Gallus, 2019 IG Nobel Prize winner in Medicine](https://improbable.com/ig/winners/#ig2019))
